@@ -1,8 +1,7 @@
-Hi. I am Kirill. I am a fourth year of bachelor in software engineering.
+Hi. I am Kirill. I am a software engineer.
 My interests are:
 - C/C++
 - Algorithms
-- Build systems
-- Database systems
+- Distributed systems
 
 ...
