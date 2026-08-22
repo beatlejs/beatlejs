@@ -1,1 +1,3 @@
 # Autographs
+
+- Linus Torvalds
